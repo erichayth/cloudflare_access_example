@@ -5,7 +5,8 @@ This Terraform template demonstrates how to configure Cloudflare Zero Trust Acce
 ## Prerequisites
 
 - Cloudflare account with Zero Trust enabled
-- Terraform installed (version compatible with Cloudflare provider 4.52.0)
+- Terraform installed
+- Cloudflare provider v4.52.0
 - Domain configured in Cloudflare
 
 ## Configuration
